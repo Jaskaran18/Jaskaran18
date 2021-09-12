@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaskaran18
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning html, css and js
-- 💞️ I’m looking to collaborate on cod m (youtube)
+- 💞️ I’m looking for a patner expert in JS and SEO
 - 📫 How to reach me saggujaskaran18@gmail.com
 
 - My Website - https://gaminghub.w3spaces.com/
